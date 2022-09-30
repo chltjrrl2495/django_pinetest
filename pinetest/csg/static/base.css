@@ -1,0 +1,16 @@
+.csg_logo{
+    font-family: 'Nabla', cursive;
+}
+.csg_footer_button{
+    font-size: .6rem;
+}
+
+.csg_footer {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.csg_header {
+    text-align:center;
+    margin: 2rem 0;
+}
